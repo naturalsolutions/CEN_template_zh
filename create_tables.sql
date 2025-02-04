@@ -1,4 +1,5 @@
 -- Assurez-vous que le schéma zh_import existe
+-- (ici zh_import mais en pratique il pourrait être judicieux de mettre le nom du partenaire en nom de schema)
 CREATE SCHEMA IF NOT EXISTS zh_import;
 -- Création de la table zh_import.zh_data
 CREATE TABLE zh_import.zh_data(

@@ -1,7 +1,7 @@
 ## Process à executer côté CEN Ariege
 
 - créer une bdd postgresql avec user
-  (à faire avec le client si solution ok pour lui)
+  (voir scripts template monitoring pour la creation de la base))
 
 - créer la table intermédiaire :
 
@@ -16,5 +16,5 @@ psql -U geonatadmin -d geonature2db-zh2 -f create_tables.sql
 - importer le csv dans la table intermédiaire :
 
 ```bash
-psql -U geonatadmin -d geonature2db-zh2 -c "\COPY zh_import.zh_data (id_digitizer, zh_uuid, main_name, id_org_op, geom, ids_crit_delim, id_sdage, field_create_date, field_obs, lb_code_cb) FROM 'test_import_zh.csv' DELIMITER ';' CSV HEADER;"
+psql -U cenadmin -d cendb -c "\COPY zh_import.zh_data (id_digitizer, zh_uuid, main_name, id_org_op, geom, ids_crit_delim, id_sdage, field_create_date, field_obs, lb_code_cb) FROM 'test_import_zh.csv' DELIMITER ';' CSV HEADER;"
 ```
