@@ -1,0 +1,196 @@
+"id_nomenclature";"id_type";"cd_nomenclature";"mnemonique";"label_default"
+580;126;"1";Présence ou absence d’une végétation hygrophile;Présence ou absence d’une végétation hygrophile
+581;126;"2";Présence ou absence de sols hydromorphes;Présence ou absence de sols hydromorphes
+582;126;"3";Périodicité des inondations ou saturation du sol en eau;Périodicité des inondations ou saturation du sol en eau
+583;126;"4";Hydrologie (balancement des eaux, crues, zones d’inondation, fluctuation de la nappe);Hydrologie (balancement des eaux, crues, zones d’inondation, fluctuation de la nappe)
+584;126;"5";Répartition et agencement spatial des habitats (types de milieux);Répartition et agencement spatial des habitats (types de milieux)
+585;126;"6";Occupation des terres (limite entre les espaces naturels et les milieux anthropisés);Occupation des terres (limite entre les espaces naturels et les milieux anthropisés)
+586;126;"7";Fonctionnement écologique (espace nécessaire à la biologie des espèces : connexions biologiques, relations entre écosystèmes);Fonctionnement écologique (espace nécessaire à la biologie des espèces : connexions biologiques, relations entre écosystèmes)
+611;130;"0";"00 - Pas d’activité marquante";"00 - Pas d’activité marquante"
+612;130;"1";"01 - Agriculture";"01 - Agriculture"
+613;130;"2";"02 - Sylviculture";"02 - Sylviculture"
+614;130;"3";"03 - Elevage / Pastoralisme";"03 - Elevage / Pastoralisme"
+615;130;"4";"04 - Pêche";"04 - Pêche"
+616;130;"5";"05 - Chasse";"05 - Chasse"
+617;130;"6";"06 - Navigation";"06 - Navigation"
+618;130;"7";"07 - Tourisme et loisirs (camping, zone de stationnement)";"07 - Tourisme et loisirs (camping, zone de stationnement)"
+619;130;"10";"10 - Urbanisme";"10 - Urbanisme"
+620;130;"11";"11 - Industrie";"11 - Industrie"
+621;130;"12";"12 - Infrastructures linéaires (routes, voies ferrées)";"12 - Infrastructures linéaires (routes, voies ferrées)"
+622;130;"14";"14 - Aérodrome, aéroport, héliport";"14 - Aérodrome, aéroport, héliport"
+623;130;"15";"15 - Port";"15 - Port"
+624;130;"16";"16 - Extraction de granulats, mines";"16 - Extraction de granulats, mines"
+625;130;"17";"17 - Activité hydroélectrique, barrage";"17 - Activité hydroélectrique, barrage"
+626;130;"18";"18 - Activité militaire";"18 - Activité militaire"
+627;130;"19";"19 - Gestion conservatoire";"19 - Gestion conservatoire"
+628;130;"20";"20 - Prélèvements d’eau";"20 - Prélèvements d’eau"
+629;130;"21";"21 - Autre (préciser dans l’encart réservé aux remarques)";"21 - Autre (préciser dans l’encart réservé aux remarques)"
+630;131;"0";Non déterminée;Non déterminée
+631;131;"1";Au niveau de la zone humide;Au niveau de la zone humide
+632;131;"2";Au niveau de l’espace de fonctionnalité;Au niveau de l’espace de fonctionnalité
+633;131;"3";Au niveau de la zone humide et de l’espace de fonctionnalité;Au niveau de la zone humide et de l’espace de fonctionnalité
+634;132;"0";Aucun;"0 - Aucun"
+635;132;"10";implantation, modification ou fonctionnement d’ infrastructures et amenagements lourds;"10 - Implantation, modification ou fonctionnement d’ infrastructures et amenagements lourds"
+636;132;"11.0";habitats humain, zone urbanisée;"11.0 - Habitats humain, zone urbanisée"
+637;132;"12.0";zone industrielle ou commerciale;"12.0 - Zone industrielle ou commerciale"
+685;132;"78.0";rejets de déchets;"78.0 - Rejets de déchets"
+638;132;"13.0";infrastructure linéaire, réseaux de communication;"13.0 - Infrastructure linéaire, réseaux de communication"
+639;132;"14.0";extraction de matériaux;"14.0 - Extraction de matériaux"
+640;132;"15.0";dépôt de matériaux, décharge;"15.0 - Dépôt de matériaux, décharge"
+641;132;"16.0";équipement sportif et de loisirs;"16.0 - Equipement sportif et de loisirs"
+642;132;"17.0";infrastructure et équipement agricoles;"17.0 - Infrastructure et équipement agricoles"
+643;132;"20";pollutions et nuisances;"20 - Pollutions et nuisances"
+644;132;"21.0";rejets substances polluantes dans les eaux;"21.0 - Rejets substances polluantes dans les eaux"
+645;132;"22.0";rejets substances polluantes dans les sols;"22.0 - Rejets substances polluantes dans les sols"
+646;132;"23.0";rejets substances polluantes dans l’atmosphère;"23.0 - Rejets substances polluantes dans l’atmosphère"
+647;132;"24.0";nuisances liées à la surfréquentation, au piétinement;"24.0 - Nuisances liées à la surfréquentation, au piétinement"
+648;132;"30";pratiques liées à la gestion des eaux;"30 - Pratiques liées à la gestion des eaux"
+649;132;"31.0";comblement, assèchement, drainage, poldérisation des zones humides;"31.0 - Comblement, assèchement, drainage, poldérisation des zones humides"
+650;132;"32.0";mise en eau, submersion, création de plan d’eau;"32.0 - Mise en eau, submersion, création de plan d’eau"
+651;132;"33.0";modification des fonds, des courants;"33.0 - Modification des fonds, des courants"
+652;132;"34.0";création ou modification des berges et des digues, îles et îlots artificiels, remblais et déblais, fossés;"34.0 - Création ou modification des berges et des digues, îles et îlots artificiels, remblais et déblais, fossés"
+653;132;"35.0";entretien rivières, canaux, fossés, plan d’eau;"35.0 - Entretien rivières, canaux, fossés, plan d’eau"
+654;132;"36.0";modification du fonctionnement hydraulique;"36.0 - Modification du fonctionnement hydraulique"
+655;132;"37.0";action sur la végétation immergée, flottante ou amphibie, y compris faucardage et démottage;"37.0 - Action sur la végétation immergée, flottante ou amphibie, y compris faucardage et démottage"
+656;132;"38.0";pêche professionnelle;"38.0 - Pêche professionnelle"
+657;132;"40";pratiques agricoles et pastorales;"40 - Pratiques agricoles et pastorales"
+658;132;"41.0";mise en culture, travaux du sol;"41.0 - Mise en culture, travaux du sol"
+659;132;"42.0";débroussaillage, suppression haies et bosquets, remembrement et travaux connexes;"42.0 - Débroussaillage, suppression haies et bosquets, remembrement et travaux connexes"
+660;132;"43.0";jachère, abandon provisoire;"43.0 - Jachère, abandon provisoire"
+661;132;"44.0";traitement de fertilisation et pesticides;"44.0 - Traitement de fertilisation et pesticides"
+662;132;"45.0";pâturage;"45.0 - Pâturage"
+663;132;"46.0";suppression ou entretien de la végétation fauchage et fenaison;"46.0 - Suppression ou entretien de la végétation fauchage et fenaison"
+664;132;"47.4";abandon de systèmes culturaux et pastoraux, apparition de friches;"47.4 - Abandon de systèmes culturaux et pastoraux, apparition de friches"
+665;132;"48.0";plantation de haies et de bosquets;"48.0 - Plantation de haies et de bosquets"
+666;132;"50";pratiques et travaux forestiers;"50 - Pratiques et travaux forestiers"
+667;132;"51.0";coupes, abattages, arrachages et déboisements;"51.0 - Coupes, abattages, arrachages et déboisements"
+668;132;"52.0";taille, élagage;"52.0 - Taille, élagage"
+669;132;"53.0";plantation, semis et travaux connexes;"53.0 - Plantation, semis et travaux connexes"
+670;132;"54.0";entretien liés à la sylviculture, nettoyage, épandage;"54.0 - Entretien liés à la sylviculture, nettoyage, épandage"
+671;132;"55.0";autre aménagement forestier, accueil du public, création de pistes;"55.0 - Autre aménagement forestier, accueil du public, création de pistes"
+672;132;"60";pratiques liees aux loisirs;"60 - Pratiques liees aux loisirs"
+673;132;"61.0";sport et loisir de plein air;"61.0 - Sport et loisir de plein air"
+674;132;"62.0";chasse;"62.0 - Chasse"
+675;132;"63.0"; pêche;"63.0 - Pêche"
+676;132;"64.0";cueillette et ramassage;"64.0 - Cueillette et ramassage"
+677;132;"70";pratiques de gestion ou d’exploitation des espèces et habitats;"70 - Pratiques de gestion ou d’exploitation des espèces et habitats"
+678;132;"71.0";prélèvement sur la faune ou la flore;"71.0 - Prélèvement sur la faune ou la flore"
+679;132;"72.0";introduction, gestion ou limitation des populations;"72.0 - Introduction, gestion ou limitation des populations"
+680;132;"73.0";gestion des habitats pour l’accueil et l’information du public;"73.0 - Gestion des habitats pour l’accueil et l’information du public"
+681;132;"74.0";autre (préciser dans l’encart réservé aux remarques);"74.0 - Autre (préciser dans l’encart réservé aux remarques)"
+682;132;"75.0";aménagements liés à la pisciculture ou à la conchyliculture;"75.0 - Aménagements liés à la pisciculture ou à la conchyliculture"
+683;132;"76.0";fertilisation, amendements;"76.0 - Fertilisation, amendements"
+684;132;"77.0";alimentation artificielle;"77.0 - Alimentation artificielle"
+686;132;"79.0";vidanges;"79.0 - Vidanges"
+687;132;"80";processus naturels abiotiques;"80 - Processus naturels abiotiques"
+688;132;"81.0";érosion;"81.0 - Erosion"
+689;132;"82.0";atterrissement, envasement, assèchement;"82.0 - Atterrissement, envasement, assèchement"
+690;132;"83.0";submersion;"83.0 - Submersion"
+691;132;"84.0";mouvement de terrain;"84.0 - Mouvement de terrain"
+692;132;"85.0";incendie;"85.0 - Incendie"
+693;132;"86.0";catastrophe naturelle;"86.0 - Catastrophe naturelle"
+694;132;"90";processus biologiques et écologiques;"90 - Processus biologiques et écologiques"
+695;132;"91.0";évolution écologique, appauvrissement, enrichissement;"91.0 - Evolution écologique, appauvrissement, enrichissement"
+696;132;"91.1";atterrissement;"91.1 - Atterrissement"
+697;132;"91.2";eutrophisation;"91.2 - Eutrophisation"
+698;132;"91.3";acidification;"91.3 - Acidification"
+699;132;"91.4";envahissement d’une espèce;"91.4 - Envahissement d’une espèce"
+700;132;"91.5";fermeture du milieu;"91.5 - Fermeture du milieu"
+705;134;"1";Canaux/fossés;Canaux/fossés
+706;134;"2";Cours d’eau;Cours d’eau
+707;134;"3";Eaux de crues;Eaux de crues
+708;134;"4";Mer/océan;Mer/océan
+709;134;"5";Nappes;Nappes
+710;134;"6";Plans d’eau;Plans d’eau
+711;134;"7";Précipitations;Précipitations
+712;134;"8";Ruissellement diffus;Ruissellement diffus
+713;134;"9";Sources;Sources
+714;136;"1";Permanent;Permanent
+715;136;"2";Saisonnier;Saisonnier
+716;136;"3";Temporaire;Temporaire
+717;136;"4";Intermittent;Intermittent
+718;136;"0";Non déterminé;Non déterminé
+719;135;"1";Canaux/fossés;Canaux/fossés
+720;135;"2";Cours d’eau;Cours d’eau
+721;135;"3";Évaporation;Évaporation
+722;135;"4";Mer/océan;Mer/océan
+723;135;"5";Nappes;Nappes
+724;135;"6";Plans d’eau;Plans d’eau
+725;135;"7";Pompage, drainage;Pompage, drainage
+726;137;"1";Aucune;Aucune
+727;137;"2";Permanent;Permanent
+728;137;"3";Saisonnier;Saisonnier
+729;137;"4";Temporaire;Temporaire
+730;137;"5";Intermittent;Intermittent
+731;137;"0";Non déterminé;Non déterminé
+732;138;"1";Jamais submergé;Jamais submergé
+733;138;"2";Toujours submergé;Toujours submergé
+734;138;"3";Exceptionnellement submergé;Exceptionnellement submergé
+735;138;"4";Régulièrement submergé;Régulièrement submergé
+736;138;"0";Non déterminé;Non déterminé
+746;141;"0";Non évaluée;Non évaluée
+747;141;"1";Pas ou peu dégradée;Pas ou peu dégradée
+748;141;"2";Partiellement dégradée;Partiellement dégradée
+749;141;"3";Fortement dégradée;Fortement dégradée
+754;143;"40";"40- fonctions de regulation hydraulique";"40- fonctions de regulation hydraulique"
+755;143;"41";"41- expansion naturelle des crues (contrôle des crues; écrêtement des crues; stockage des eaux de crues; prévention des inondations)";"41- expansion naturelle des crues (contrôle des crues; écrêtement des crues; stockage des eaux de crues; prévention des inondations)"
+756;143;"42";"42- ralentissement du ruissellement";"42- ralentissement du ruissellement"
+757;143;"43";"43- soutien naturel d’étiage (alimentation des nappes phréatiques; émergence des nappes phréatiques; recharge et protection des nappes phréatiques)";"43- soutien naturel d’étiage (alimentation des nappes phréatiques; émergence des nappes phréatiques; recharge et protection des nappes phréatiques)"
+977;155;"22";Roselière, cariçaie;Roselière, cariçaie
+758;143;"44";"44- fonctions d’épuration (rétention de sédiments et de produits toxiques; recyclage et stockage de matière en suspension; régulation des cycles trophiques par exportation de matière organique; influence sur les cycles du carbone et de l’azote)";"44- fonctions d’épuration (rétention de sédiments et de produits toxiques; recyclage et stockage de matière en suspension; régulation des cycles trophiques par exportation de matière organique; influence sur les cycles du carbone et de l’azote)"
+759;143;"50";"50- fonctions de protection du milieu physique";"50- fonctions de protection du milieu physique"
+760;143;"51";"51- rôle naturel de protection contre l’érosion";"51- rôle naturel de protection contre l’érosion"
+761;144;"1";Nulle à faible;Nulle à faible
+762;144;"2";Moyenne;Moyenne
+763;144;"3";Forte;Forte
+764;144;"0";Non évaluée;Non évaluée
+765;145;"0";Lacunaire ou nulle;Lacunaire ou nulle
+766;145;"1";Bonne;Bonne
+767;146;"60";"60- fonction d’habitat pour les populations animales ou vegetales";"60- fonction d’habitat pour les populations animales ou vegetales"
+768;146;"61";"61- connexions biologiques (continuité avec d’autres milieux naturels), zone d’échanges, zone de passages, corridor écologique (faune, flore)";"61- connexions biologiques (continuité avec d’autres milieux naturels), zone d’échanges, zone de passages, corridor écologique (faune, flore)"
+769;146;"62";"62- étapes migratoires, zones de stationnement, dortoirs";"62- étapes migratoires, zones de stationnement, dortoirs"
+770;146;"63";"63- zone particulière d’alimentation pour la faune";"63- zone particulière d’alimentation pour la faune"
+771;146;"64";"64- zone particulière liée à la reproduction";"64- zone particulière liée à la reproduction"
+772;146;"70";"70- autre interet fonctionnel d’ordre ecologique (préciser dans l’encart réservé aux remarques)";"70- autre interet fonctionnel d’ordre ecologique (préciser dans l’encart réservé aux remarques)"
+943;154;"1";Grands estuaires;"01 - grands estuaires"
+944;154;"2";Baies et estuaires moyens-plats;"02 - baies et estuaires moyens-plats"
+945;154;"3";Marais et lagunes côtiers;"03 - marais et lagunes côtiers"
+946;154;"4";Marais saumâtres aménagés;"04 - marais saumâtres aménagés"
+947;154;"5";Bordures de cours d'eau;"05 - bordures de cours d'eau"
+948;154;"6";Plaines alluviales;"06 - plaines alluviales"
+949;154;"7";Zones humides de bas fonds en tête de bassin;"07 - zones humides de bas fonds en tête de bassin"
+950;154;"8";Régions d'étangs;"08 - régions d'étangs"
+951;154;"9";Petits plans d'eau et bordures de plans d'eau;"09 - petits plans d'eau et bordures de plans d'eau"
+952;154;"10";Marais et landes humides de plaines et plateaux;"10 - marais et landes humides de plaines et plateaux"
+953;154;"11";Zones humides ponctuelles;"11 - zones humides ponctuelles"
+954;154;"12";Marais aménagés dans un but agricole;"12 - marais aménagés dans un but agricole"
+955;154;"13";Zones humides artificielles;"13 - zones humides artificielles"
+956;155;"1";Arrière-dune;Arrière-dune
+957;155;"2";Bassin aquacole;Bassin aquacole
+958;155;"3";Carrière en eau;Carrière en eau
+959;155;"4";Forêt alluviale;Forêt alluviale
+960;155;"5";Forêt inondable;Forêt inondable
+961;155;"6";Herbier, récif;Herbier, récif
+962;155;"7";Lagune;Lagune
+963;155;"8";Lande humide;Lande humide
+964;155;"9";Marais d'altitude;Marais d'altitude
+965;155;"10";Marais salant;Marais salant
+966;155;"11";Mare;Mare
+967;155;"12";Petit lac;Petit lac
+968;155;"13";Peupleraie;Peupleraie
+969;155;"14";Prairie amendée;Prairie amendée
+970;155;"15";Prairie inondable;Prairie inondable
+971;155;"16";Prairie tourbeuse;Prairie tourbeuse
+972;155;"17";Prés salés;Prés salés
+973;155;"18";Prés salé continental;Prés salé continental
+974;155;"19";Réservoir-barrage;Réservoir-barrage
+975;155;"20";Ripisylve;Ripisylve
+976;155;"21";Rizière;Rizière
+978;155;"23";Tourbière;Tourbière
+979;155;"24";Vasière;Vasière
+980;155;"25";Végétation aquatique;Végétation aquatique
+1076;171;"1";Horizons histiques (ou tourbeux) débutant à moins de 50 cm de la surface du sol et d'une épaisseur d'au moins 50 cm;Horizons histiques (ou tourbeux) débutant à moins de 50 cm de la surface du sol et d'une épaisseur d'au moins 50 cm
+1077;171;"2";Traits reductiques débutant à moins de 50 cm de la surface du sol;Traits reductiques débutant à moins de 50 cm de la surface du sol
+1078;171;"3";Traits rédoxiques débutant à moins de 25 cm de profondeur dans le sol et se prolongeant ou s'intensifiant en profondeur;Traits rédoxiques débutant à moins de 25 cm de profondeur dans le sol et se prolongeant ou s'intensifiant en profondeur
+1079;171;"4";Traits rédoxiques débutant à moins de 50 cm de profondeur dans le sol et se prolongeant ou s'intensifiant en profondeur et traits reductiques apparaissant entre 80 cm et 120 cm de profondeur;Traits rédoxiques débutant à moins de 50 cm de profondeur dans le sol et se prolongeant ou s'intensifiant en profondeur et traits reductiques apparaissant entre 80 cm et 120 cm de profondeur
+1080;171;"5";Cas particuliers;Cas particuliers

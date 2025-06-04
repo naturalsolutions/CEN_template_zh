@@ -1,3 +1,0 @@
-id_digitizer;zh_uuid;main_name;id_org_op;geom;ids_crit_delim;id_sdage;field_create_date;field_obs;lb_code_CB
-745;efac3267-85d4-436b-8fe4-831be1873a1c;test_import1;110;POLYGON((3.00 45.75, 3.50 45.75, 3.50 46.25, 3.00 46.25, 3.00 45.75));600;965;27/09/2024;Julien Corny;15.1, 22
-745;2a215333-43a6-4707-b0ee-541925c97c0b;test_import2;111;MULTIPOLYGON(((3.00 45.50, 3.50 45.50, 3.50 46.00, 3.00 46.00, 3.00 45.50)),((3.60 45.75, 4.10 45.75, 4.10 46.25, 3.60 46.25, 3.60 45.75)));601, 602, 603;967;12/10/2024;Julien Corny;22

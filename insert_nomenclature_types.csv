@@ -1,0 +1,18 @@
+"id_type";"mnemonique";"label_default"
+130;ACTIV_HUM;Activités humaines
+126;CRIT_DELIM;Critères de délimitation de la zone humide
+134;ENTREE_EAU;Entrée d'eau
+141;FONCTIONNALITE_HYDRO;Fonctionnalité hydrologique
+146;FONCTIONS_BIO;Fonctions biologiques
+145;FONCTIONS_CONNAISSANCE;Fonctions hydrologiques : connaissance
+143;FONCTIONS_HYDRO;Fonctions hydrologiques
+144;FONCTIONS_QUALIF;Fonctions hydrologiques : qualifications
+171;HYDROMORPHY;Trace d'hydromorphie caractéristique de la ZH
+132;IMPACTS;Impacts (facteurs influençant l'évolution de la zone)
+131;LOCALISATION;Localisation
+136;PERMANENCE_ENTREE;Permanence entrée d’eau
+137;PERMANENCE_SORTIE;Permanence sortie d’eau
+155;SAGE;Sous-type SAGE
+154;SDAGE;Type SDAGE
+135;SORTIE_EAU;Sortie d'eau
+138;SUBMERSION_FREQ;Submersion fréquence
